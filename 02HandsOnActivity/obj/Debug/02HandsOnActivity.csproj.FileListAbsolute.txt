@@ -1,0 +1,11 @@
+C:\Users\Czarina\source\repos\02HandsOnActivity\02HandsOnActivity\obj\Debug\02HandsOnActivity.csprojAssemblyReference.cache
+C:\Users\Czarina\source\repos\02HandsOnActivity\02HandsOnActivity\obj\Debug\_02HandsOnActivity.CashierWindowQueueForm.resources
+C:\Users\Czarina\source\repos\02HandsOnActivity\02HandsOnActivity\obj\Debug\_02HandsOnActivity.QueuingForm.resources
+C:\Users\Czarina\source\repos\02HandsOnActivity\02HandsOnActivity\obj\Debug\_02HandsOnActivity.Properties.Resources.resources
+C:\Users\Czarina\source\repos\02HandsOnActivity\02HandsOnActivity\obj\Debug\02HandsOnActivity.csproj.GenerateResource.cache
+C:\Users\Czarina\source\repos\02HandsOnActivity\02HandsOnActivity\obj\Debug\02HandsOnActivity.csproj.CoreCompileInputs.cache
+C:\Users\Czarina\source\repos\02HandsOnActivity\02HandsOnActivity\bin\Debug\02HandsOnActivity.exe.config
+C:\Users\Czarina\source\repos\02HandsOnActivity\02HandsOnActivity\bin\Debug\02HandsOnActivity.exe
+C:\Users\Czarina\source\repos\02HandsOnActivity\02HandsOnActivity\bin\Debug\02HandsOnActivity.pdb
+C:\Users\Czarina\source\repos\02HandsOnActivity\02HandsOnActivity\obj\Debug\02HandsOnActivity.exe
+C:\Users\Czarina\source\repos\02HandsOnActivity\02HandsOnActivity\obj\Debug\02HandsOnActivity.pdb
